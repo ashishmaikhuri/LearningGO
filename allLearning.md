@@ -5,8 +5,6 @@ Course Github Link: [https://github.com/hiteshchoudhary/golang/tree/main](https:
 Course Playlist: [https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)  
 go Packages: pkg.go.dev
 
-google3: https://godoc.corp.google.com
-
 * GO is a compiled Language.
 
 ![][image1]
